@@ -1,0 +1,675 @@
+{
+  "version": "3.2",
+  "source": {
+    "title": "ArchiMate 3.2 Specification Reference Cards — Personal PDF Edition",
+    "publication": "N221",
+    "publisher": "The Open Group",
+    "year": 2022,
+    "filename": "n221p.pdf",
+    "sha256": "0dab858eda810c6bb67926e044951f540ec683dd5c35fbfd849ccffa0ef836df",
+    "copyright": "Copyright © 2022 The Open Group. All Rights Reserved.",
+    "trademark": "ArchiMate® is a registered trademark of The Open Group."
+  },
+  "elements": [
+    {
+      "type": "Stakeholder",
+      "slug": "stakeholder",
+      "pdf_page": 3,
+      "group": "Motivation",
+      "aspect": "motivation",
+      "meaning": "A role that represents interests in the effects of the architecture.",
+      "template": "assets/elements/stakeholder.svg",
+      "symbol": "assets/symbols/stakeholder.svg"
+    },
+    {
+      "type": "Driver",
+      "slug": "driver",
+      "pdf_page": 3,
+      "group": "Motivation",
+      "aspect": "motivation",
+      "meaning": "An internal or external condition that motivates goals and change.",
+      "template": "assets/elements/driver.svg",
+      "symbol": "assets/symbols/driver.svg"
+    },
+    {
+      "type": "Assessment",
+      "slug": "assessment",
+      "pdf_page": 3,
+      "group": "Motivation",
+      "aspect": "motivation",
+      "meaning": "The result of an analysis of the enterprise with respect to a driver.",
+      "template": "assets/elements/assessment.svg",
+      "symbol": "assets/symbols/assessment.svg"
+    },
+    {
+      "type": "Goal",
+      "slug": "goal",
+      "pdf_page": 3,
+      "group": "Motivation",
+      "aspect": "motivation",
+      "meaning": "A high-level intended direction or desired end state.",
+      "template": "assets/elements/goal.svg",
+      "symbol": "assets/symbols/goal.svg"
+    },
+    {
+      "type": "Outcome",
+      "slug": "outcome",
+      "pdf_page": 3,
+      "group": "Motivation",
+      "aspect": "motivation",
+      "meaning": "An end result, effect, or consequence of a state of affairs.",
+      "template": "assets/elements/outcome.svg",
+      "symbol": "assets/symbols/outcome.svg"
+    },
+    {
+      "type": "Principle",
+      "slug": "principle",
+      "pdf_page": 4,
+      "group": "Motivation",
+      "aspect": "motivation",
+      "meaning": "A statement of intent that defines a general property in a context.",
+      "template": "assets/elements/principle.svg",
+      "symbol": "assets/symbols/principle.svg"
+    },
+    {
+      "type": "Requirement",
+      "slug": "requirement",
+      "pdf_page": 4,
+      "group": "Motivation",
+      "aspect": "motivation",
+      "meaning": "A statement of need that defines a property of a specific system.",
+      "template": "assets/elements/requirement.svg",
+      "symbol": "assets/symbols/requirement.svg"
+    },
+    {
+      "type": "Constraint",
+      "slug": "constraint",
+      "pdf_page": 4,
+      "group": "Motivation",
+      "aspect": "motivation",
+      "meaning": "A limit on the architecture, its implementation, or its realization.",
+      "template": "assets/elements/constraint.svg",
+      "symbol": "assets/symbols/constraint.svg"
+    },
+    {
+      "type": "Meaning",
+      "slug": "meaning",
+      "pdf_page": 4,
+      "group": "Motivation",
+      "aspect": "motivation",
+      "meaning": "Knowledge, expertise, or an interpretation of a concept in a context.",
+      "template": "assets/elements/meaning.svg",
+      "symbol": "assets/symbols/meaning.svg"
+    },
+    {
+      "type": "Value",
+      "slug": "value",
+      "pdf_page": 4,
+      "group": "Motivation",
+      "aspect": "motivation",
+      "meaning": "The relative worth, utility, or importance of a concept.",
+      "template": "assets/elements/value.svg",
+      "symbol": "assets/symbols/value.svg"
+    },
+    {
+      "type": "Resource",
+      "slug": "resource",
+      "pdf_page": 5,
+      "group": "Strategy",
+      "aspect": "structure",
+      "meaning": "An asset owned or controlled by an individual or organization.",
+      "template": "assets/elements/resource.svg",
+      "symbol": "assets/symbols/resource.svg"
+    },
+    {
+      "type": "Capability",
+      "slug": "capability",
+      "pdf_page": 5,
+      "group": "Strategy",
+      "aspect": "behavior",
+      "meaning": "An ability that an organization, person, system, or other active structure possesses.",
+      "template": "assets/elements/capability.svg",
+      "symbol": "assets/symbols/capability.svg"
+    },
+    {
+      "type": "Value Stream",
+      "slug": "value-stream",
+      "pdf_page": 5,
+      "group": "Strategy",
+      "aspect": "behavior",
+      "meaning": "A sequence of activities that creates an overall result for a customer, stakeholder, or end user.",
+      "template": "assets/elements/value-stream.svg",
+      "symbol": "assets/symbols/value-stream.svg"
+    },
+    {
+      "type": "Course of Action",
+      "slug": "course-of-action",
+      "pdf_page": 5,
+      "group": "Strategy",
+      "aspect": "behavior",
+      "meaning": "An approach or plan that configures capabilities and resources to achieve a goal.",
+      "template": "assets/elements/course-of-action.svg",
+      "symbol": "assets/symbols/course-of-action.svg"
+    },
+    {
+      "type": "Business Actor",
+      "slug": "business-actor",
+      "pdf_page": 6,
+      "group": "Business",
+      "aspect": "active",
+      "meaning": "A business entity that can perform behavior.",
+      "template": "assets/elements/business-actor.svg",
+      "symbol": "assets/symbols/business-actor.svg"
+    },
+    {
+      "type": "Business Role",
+      "slug": "business-role",
+      "pdf_page": 6,
+      "group": "Business",
+      "aspect": "active",
+      "meaning": "A responsibility for behavior, or the part an actor plays in an action or event.",
+      "template": "assets/elements/business-role.svg",
+      "symbol": "assets/symbols/business-role.svg"
+    },
+    {
+      "type": "Business Collaboration",
+      "slug": "business-collaboration",
+      "pdf_page": 6,
+      "group": "Business",
+      "aspect": "active",
+      "meaning": "Two or more business internal active structure elements that work together on collective behavior.",
+      "template": "assets/elements/business-collaboration.svg",
+      "symbol": "assets/symbols/business-collaboration.svg"
+    },
+    {
+      "type": "Business Interface",
+      "slug": "business-interface",
+      "pdf_page": 6,
+      "group": "Business",
+      "aspect": "active",
+      "meaning": "An access point that makes a business service available to its environment.",
+      "template": "assets/elements/business-interface.svg",
+      "symbol": "assets/symbols/business-interface.svg"
+    },
+    {
+      "type": "Business Process",
+      "slug": "business-process",
+      "pdf_page": 6,
+      "group": "Business",
+      "aspect": "behavior",
+      "meaning": "A sequence of business behaviors that achieves a specific result.",
+      "template": "assets/elements/business-process.svg",
+      "symbol": "assets/symbols/business-process.svg"
+    },
+    {
+      "type": "Business Function",
+      "slug": "business-function",
+      "pdf_page": 6,
+      "group": "Business",
+      "aspect": "behavior",
+      "meaning": "Business behavior grouped by criteria such as resources or competence and closely aligned to an organization.",
+      "template": "assets/elements/business-function.svg",
+      "symbol": "assets/symbols/business-function.svg"
+    },
+    {
+      "type": "Business Interaction",
+      "slug": "business-interaction",
+      "pdf_page": 7,
+      "group": "Business",
+      "aspect": "behavior",
+      "meaning": "Collective business behavior performed by two or more actors, roles, or collaborations.",
+      "template": "assets/elements/business-interaction.svg",
+      "symbol": "assets/symbols/business-interaction.svg"
+    },
+    {
+      "type": "Business Event",
+      "slug": "business-event",
+      "pdf_page": 7,
+      "group": "Business",
+      "aspect": "behavior",
+      "meaning": "A business-related state change.",
+      "template": "assets/elements/business-event.svg",
+      "symbol": "assets/symbols/business-event.svg"
+    },
+    {
+      "type": "Business Service",
+      "slug": "business-service",
+      "pdf_page": 7,
+      "group": "Business",
+      "aspect": "behavior",
+      "meaning": "Defined business behavior exposed by an actor, role, or collaboration to its environment.",
+      "template": "assets/elements/business-service.svg",
+      "symbol": "assets/symbols/business-service.svg"
+    },
+    {
+      "type": "Business Object",
+      "slug": "business-object",
+      "pdf_page": 7,
+      "group": "Business",
+      "aspect": "passive",
+      "meaning": "A concept used in a particular business domain.",
+      "template": "assets/elements/business-object.svg",
+      "symbol": "assets/symbols/business-object.svg"
+    },
+    {
+      "type": "Contract",
+      "slug": "contract",
+      "pdf_page": 7,
+      "group": "Business",
+      "aspect": "passive",
+      "meaning": "An agreement that sets rights, obligations, and interaction parameters associated with a product.",
+      "template": "assets/elements/contract.svg",
+      "symbol": "assets/symbols/contract.svg"
+    },
+    {
+      "type": "Representation",
+      "slug": "representation",
+      "pdf_page": 7,
+      "group": "Business",
+      "aspect": "passive",
+      "meaning": "A perceptible form of the information carried by a business object.",
+      "template": "assets/elements/representation.svg",
+      "symbol": "assets/symbols/representation.svg"
+    },
+    {
+      "type": "Product",
+      "slug": "product",
+      "pdf_page": 7,
+      "group": "Business",
+      "aspect": "composite",
+      "meaning": "Services or passive structure offered together to customers and accompanied by a contract.",
+      "template": "assets/elements/product.svg",
+      "symbol": "assets/symbols/product.svg"
+    },
+    {
+      "type": "Application Component",
+      "slug": "application-component",
+      "pdf_page": 8,
+      "group": "Application",
+      "aspect": "active",
+      "meaning": "A modular, replaceable encapsulation of application functionality aligned to implementation structure.",
+      "template": "assets/elements/application-component.svg",
+      "symbol": "assets/symbols/application-component.svg"
+    },
+    {
+      "type": "Application Collaboration",
+      "slug": "application-collaboration",
+      "pdf_page": 8,
+      "group": "Application",
+      "aspect": "active",
+      "meaning": "Two or more application internal active structure elements that work together on collective behavior.",
+      "template": "assets/elements/application-collaboration.svg",
+      "symbol": "assets/symbols/application-collaboration.svg"
+    },
+    {
+      "type": "Application Interface",
+      "slug": "application-interface",
+      "pdf_page": 8,
+      "group": "Application",
+      "aspect": "active",
+      "meaning": "An access point for application services used by a user, another component, or a node.",
+      "template": "assets/elements/application-interface.svg",
+      "symbol": "assets/symbols/application-interface.svg"
+    },
+    {
+      "type": "Application Function",
+      "slug": "application-function",
+      "pdf_page": 8,
+      "group": "Application",
+      "aspect": "behavior",
+      "meaning": "Automated behavior that an application component can perform.",
+      "template": "assets/elements/application-function.svg",
+      "symbol": "assets/symbols/application-function.svg"
+    },
+    {
+      "type": "Application Interaction",
+      "slug": "application-interaction",
+      "pdf_page": 8,
+      "group": "Application",
+      "aspect": "behavior",
+      "meaning": "Collective application behavior performed by two or more application components.",
+      "template": "assets/elements/application-interaction.svg",
+      "symbol": "assets/symbols/application-interaction.svg"
+    },
+    {
+      "type": "Application Process",
+      "slug": "application-process",
+      "pdf_page": 8,
+      "group": "Application",
+      "aspect": "behavior",
+      "meaning": "A sequence of application behaviors that achieves a specific result.",
+      "template": "assets/elements/application-process.svg",
+      "symbol": "assets/symbols/application-process.svg"
+    },
+    {
+      "type": "Application Event",
+      "slug": "application-event",
+      "pdf_page": 8,
+      "group": "Application",
+      "aspect": "behavior",
+      "meaning": "An application state change.",
+      "template": "assets/elements/application-event.svg",
+      "symbol": "assets/symbols/application-event.svg"
+    },
+    {
+      "type": "Application Service",
+      "slug": "application-service",
+      "pdf_page": 8,
+      "group": "Application",
+      "aspect": "behavior",
+      "meaning": "Explicitly defined application behavior exposed to consumers.",
+      "template": "assets/elements/application-service.svg",
+      "symbol": "assets/symbols/application-service.svg"
+    },
+    {
+      "type": "Data Object",
+      "slug": "data-object",
+      "pdf_page": 8,
+      "group": "Application",
+      "aspect": "passive",
+      "meaning": "Data structured for automated processing.",
+      "template": "assets/elements/data-object.svg",
+      "symbol": "assets/symbols/data-object.svg"
+    },
+    {
+      "type": "Node",
+      "slug": "node",
+      "pdf_page": 9,
+      "group": "Technology",
+      "aspect": "active",
+      "meaning": "A computational or physical resource that hosts, manipulates, or interacts with other such resources.",
+      "template": "assets/elements/node.svg",
+      "symbol": "assets/symbols/node.svg"
+    },
+    {
+      "type": "Device",
+      "slug": "device",
+      "pdf_page": 9,
+      "group": "Technology",
+      "aspect": "active",
+      "meaning": "A physical IT resource that stores or executes system software and artifacts.",
+      "template": "assets/elements/device.svg",
+      "symbol": "assets/symbols/device.svg"
+    },
+    {
+      "type": "System Software",
+      "slug": "system-software",
+      "pdf_page": 9,
+      "group": "Technology",
+      "aspect": "active",
+      "meaning": "Software that provides or contributes to an environment for storing, executing, and using software or data.",
+      "template": "assets/elements/system-software.svg",
+      "symbol": "assets/symbols/system-software.svg"
+    },
+    {
+      "type": "Technology Collaboration",
+      "slug": "technology-collaboration",
+      "pdf_page": 9,
+      "group": "Technology",
+      "aspect": "active",
+      "meaning": "Two or more technology internal active structure elements that work together on collective behavior.",
+      "template": "assets/elements/technology-collaboration.svg",
+      "symbol": "assets/symbols/technology-collaboration.svg"
+    },
+    {
+      "type": "Technology Interface",
+      "slug": "technology-interface",
+      "pdf_page": 9,
+      "group": "Technology",
+      "aspect": "active",
+      "meaning": "An access point for services offered by a technology internal active structure element.",
+      "template": "assets/elements/technology-interface.svg",
+      "symbol": "assets/symbols/technology-interface.svg"
+    },
+    {
+      "type": "Path",
+      "slug": "path",
+      "pdf_page": 9,
+      "group": "Technology",
+      "aspect": "active",
+      "meaning": "A link for data, energy, or material exchange between technology internal active structure elements.",
+      "template": "assets/elements/path.svg",
+      "symbol": "assets/symbols/path.svg"
+    },
+    {
+      "type": "Communication Network",
+      "slug": "communication-network",
+      "pdf_page": 9,
+      "group": "Technology",
+      "aspect": "active",
+      "meaning": "Structures and behaviors that connect devices or system software to transmit, route, and receive data.",
+      "template": "assets/elements/communication-network.svg",
+      "symbol": "assets/symbols/communication-network.svg"
+    },
+    {
+      "type": "Technology Function",
+      "slug": "technology-function",
+      "pdf_page": 10,
+      "group": "Technology",
+      "aspect": "behavior",
+      "meaning": "Technology behavior that a technology internal active structure element can perform.",
+      "template": "assets/elements/technology-function.svg",
+      "symbol": "assets/symbols/technology-function.svg"
+    },
+    {
+      "type": "Technology Process",
+      "slug": "technology-process",
+      "pdf_page": 10,
+      "group": "Technology",
+      "aspect": "behavior",
+      "meaning": "A sequence of technology behaviors that achieves a specific result.",
+      "template": "assets/elements/technology-process.svg",
+      "symbol": "assets/symbols/technology-process.svg"
+    },
+    {
+      "type": "Technology Interaction",
+      "slug": "technology-interaction",
+      "pdf_page": 10,
+      "group": "Technology",
+      "aspect": "behavior",
+      "meaning": "Collective technology behavior performed by two or more technology internal active structure elements.",
+      "template": "assets/elements/technology-interaction.svg",
+      "symbol": "assets/symbols/technology-interaction.svg"
+    },
+    {
+      "type": "Technology Event",
+      "slug": "technology-event",
+      "pdf_page": 10,
+      "group": "Technology",
+      "aspect": "behavior",
+      "meaning": "A technology state change.",
+      "template": "assets/elements/technology-event.svg",
+      "symbol": "assets/symbols/technology-event.svg"
+    },
+    {
+      "type": "Technology Service",
+      "slug": "technology-service",
+      "pdf_page": 10,
+      "group": "Technology",
+      "aspect": "behavior",
+      "meaning": "Explicitly defined technology behavior exposed to consumers.",
+      "template": "assets/elements/technology-service.svg",
+      "symbol": "assets/symbols/technology-service.svg"
+    },
+    {
+      "type": "Artifact",
+      "slug": "artifact",
+      "pdf_page": 10,
+      "group": "Technology",
+      "aspect": "passive",
+      "meaning": "Data used or produced during software development, deployment, or IT-system operation.",
+      "template": "assets/elements/artifact.svg",
+      "symbol": "assets/symbols/artifact.svg"
+    },
+    {
+      "type": "Equipment",
+      "slug": "equipment",
+      "pdf_page": 11,
+      "group": "Physical",
+      "aspect": "active",
+      "meaning": "Physical machines, tools, or instruments that create, use, store, move, or transform material.",
+      "template": "assets/elements/equipment.svg",
+      "symbol": "assets/symbols/equipment.svg"
+    },
+    {
+      "type": "Facility",
+      "slug": "facility",
+      "pdf_page": 11,
+      "group": "Physical",
+      "aspect": "active",
+      "meaning": "A physical structure or environment.",
+      "template": "assets/elements/facility.svg",
+      "symbol": "assets/symbols/facility.svg"
+    },
+    {
+      "type": "Distribution Network",
+      "slug": "distribution-network",
+      "pdf_page": 11,
+      "group": "Physical",
+      "aspect": "active",
+      "meaning": "A physical network that transports material or energy.",
+      "template": "assets/elements/distribution-network.svg",
+      "symbol": "assets/symbols/distribution-network.svg"
+    },
+    {
+      "type": "Material",
+      "slug": "material",
+      "pdf_page": 11,
+      "group": "Physical",
+      "aspect": "passive",
+      "meaning": "Tangible physical matter or energy.",
+      "template": "assets/elements/material.svg",
+      "symbol": "assets/symbols/material.svg"
+    },
+    {
+      "type": "Work Package",
+      "slug": "work-package",
+      "pdf_page": 12,
+      "group": "Implementation and Migration",
+      "aspect": "behavior",
+      "meaning": "Actions designed to achieve specific results within time and resource limits.",
+      "template": "assets/elements/work-package.svg",
+      "symbol": "assets/symbols/work-package.svg"
+    },
+    {
+      "type": "Deliverable",
+      "slug": "deliverable",
+      "pdf_page": 12,
+      "group": "Implementation and Migration",
+      "aspect": "passive",
+      "meaning": "A precisely defined result of a work package.",
+      "template": "assets/elements/deliverable.svg",
+      "symbol": "assets/symbols/deliverable.svg"
+    },
+    {
+      "type": "Implementation Event",
+      "slug": "implementation-event",
+      "pdf_page": 12,
+      "group": "Implementation and Migration",
+      "aspect": "behavior",
+      "meaning": "A state change related to implementation or migration.",
+      "template": "assets/elements/implementation-event.svg",
+      "symbol": "assets/symbols/implementation-event.svg"
+    },
+    {
+      "type": "Plateau",
+      "slug": "plateau",
+      "pdf_page": 12,
+      "group": "Implementation and Migration",
+      "aspect": "composite",
+      "meaning": "A relatively stable architecture state during a limited period.",
+      "template": "assets/elements/plateau.svg",
+      "symbol": "assets/symbols/plateau.svg"
+    },
+    {
+      "type": "Gap",
+      "slug": "gap",
+      "pdf_page": 12,
+      "group": "Implementation and Migration",
+      "aspect": "passive",
+      "meaning": "A statement of difference between two plateaus.",
+      "template": "assets/elements/gap.svg",
+      "symbol": "assets/symbols/gap.svg"
+    },
+    {
+      "type": "Grouping",
+      "slug": "grouping",
+      "pdf_page": 13,
+      "group": "Composite",
+      "aspect": "composite",
+      "meaning": "Concepts grouped by a common characteristic through aggregation or composition.",
+      "template": "assets/elements/grouping.svg",
+      "symbol": "assets/symbols/grouping.svg"
+    },
+    {
+      "type": "Location",
+      "slug": "location",
+      "pdf_page": 13,
+      "group": "Composite",
+      "aspect": "composite",
+      "meaning": "A conceptual or physical place where concepts exist or behavior occurs.",
+      "template": "assets/elements/location.svg",
+      "symbol": "assets/symbols/location.svg"
+    }
+  ],
+  "relationships": [
+    {
+      "type": "Composition",
+      "pdf_page": 2
+    },
+    {
+      "type": "Aggregation",
+      "pdf_page": 2
+    },
+    {
+      "type": "Assignment",
+      "pdf_page": 2
+    },
+    {
+      "type": "Realization",
+      "pdf_page": 2
+    },
+    {
+      "type": "Serving",
+      "pdf_page": 2
+    },
+    {
+      "type": "Access",
+      "pdf_page": 2
+    },
+    {
+      "type": "Influence",
+      "pdf_page": 2
+    },
+    {
+      "type": "Association",
+      "pdf_page": 2
+    },
+    {
+      "type": "Triggering",
+      "pdf_page": 2
+    },
+    {
+      "type": "Flow",
+      "pdf_page": 2
+    },
+    {
+      "type": "Specialization",
+      "pdf_page": 2
+    }
+  ],
+  "connectors": [
+    {
+      "type": "AndJunction",
+      "pdf_page": 2
+    },
+    {
+      "type": "OrJunction",
+      "pdf_page": 2
+    }
+  ],
+  "notes": [
+    "Aspect and group values are local lookup categories, not an admissibility matrix.",
+    "Physical concepts are presented within Technology in N221."
+  ]
+}

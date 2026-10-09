@@ -1,0 +1,44 @@
+{
+  "profile": "neutral-light",
+  "status": "Recommended starting values. User instructions and domain rules take precedence.",
+  "units": {
+    "layout": "CSS pixels",
+    "css_px_per_inch": 96,
+    "points_per_inch": 72
+  },
+  "canvas": {
+    "background": "#FFFFFF",
+    "grid_px": 8,
+    "margin_px": 32
+  },
+  "text": {
+    "font_family": "Arial",
+    "label_size_px": 16,
+    "group_title_size_px": 18,
+    "page_title_size_px": 24,
+    "color": "#1F2937"
+  },
+  "spacing": {
+    "shape_padding_px": 16,
+    "node_gap_px": 32,
+    "group_padding_px": 24,
+    "group_title_clearance_px": 32,
+    "connector_corridor_px": 16
+  },
+  "style": {
+    "shape_fill": "#FFFFFF",
+    "group_fill": "#F8FAFC",
+    "border_color": "#64748B",
+    "connector_color": "#475569",
+    "accent_color": "#2563EB",
+    "border_width_px": 1.5,
+    "connector_width_px": 1.5
+  },
+  "notation": {
+    "shape": null,
+    "start_marker": null,
+    "end_marker": null,
+    "line_pattern": null,
+    "containment_meaning": null
+  }
+}

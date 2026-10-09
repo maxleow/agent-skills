@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 66.65431 29.34156" width="66.65431" height="29.34156">
+<title>Application Interaction</title>
+<metadata>Copyright © 2022 The Open Group. All Rights Reserved. ArchiMate® is a registered trademark of The Open Group. Source: N221, PDF page 8. Label-free vector extraction; no raster tracing.</metadata>
+<g transform="translate(-417.02714 -226.22541)">
+<path d="M423.14709 228.45862 L477.56149 228.45862 C479.7081 228.45862 481.4483 230.19872 481.4483 232.34532 L481.4483 249.44702 C481.4483 251.59352 479.7081 253.33371 477.56149 253.33371 L423.14709 253.33371 C421.00061 253.33371 419.26041 251.59352 419.26041 249.44702 L419.26041 232.34532 C419.26041 230.19872 421.00061 228.45862 423.14709 228.45862" fill="#afffff" stroke="none" stroke-width="0" fill-rule="nonzero" stroke-linecap="butt" stroke-linejoin="miter"/>
+<path d="M423.14709 228.45862 L477.56149 228.45862 C479.70807 228.45862 481.44824 230.19879 481.44824 232.34537 L481.44824 249.44702 C481.44824 251.5936 479.70807 253.33377 477.56149 253.33377 L423.14709 253.33377 C421.00052 253.33377 419.26035 251.5936 419.26035 249.44702 L419.26035 232.34537 C419.26035 230.19879 421.00052 228.45862 423.14709 228.45862" fill="none" stroke="#000000" stroke-width="0.46641" fill-rule="nonzero" stroke-linecap="butt" stroke-linejoin="miter"/>
+<path d="M476.30389 234.64151 L476.30389 230.146 C476.30389 230.146 473.77594 230.146 473.77594 232.39375 C473.77594 234.64151 476.30389 234.64151 476.30389 234.64151" fill="none" stroke="#000000" stroke-width="0.31075" fill-rule="nonzero" stroke-linecap="butt" stroke-linejoin="miter"/>
+<path d="M477.315 234.64151 L477.315 230.146 C477.315 230.146 479.84296 230.146 479.84296 232.39375 C479.84296 234.64151 477.315 234.64151 477.315 234.64151" fill="none" stroke="#000000" stroke-width="0.31075" fill-rule="nonzero" stroke-linecap="butt" stroke-linejoin="miter"/>
+</g>
+</svg>

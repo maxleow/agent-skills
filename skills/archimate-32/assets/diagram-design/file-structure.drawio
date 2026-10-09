@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="layout-example" name="File structure">
+    <mxGraphModel grid="1" gridSize="8" guides="1" connect="1" page="1" pageScale="1" pageWidth="640" pageHeight="240" background="#FFFFFF">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="label-a" value="Element A" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=16;fontColor=#1F2937;fillColor=#FFFFFF;strokeColor=#64748B;strokeWidth=1.5;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="64" y="80" width="176" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="label-b" value="Element B" style="whiteSpace=wrap;html=0;fontFamily=Arial;fontSize=16;fontColor=#1F2937;fillColor=#FFFFFF;strokeColor=#64748B;strokeWidth=1.5;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="176" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="connection" value="" style="edgeStyle=orthogonalEdgeStyle;html=0;startArrow=none;endArrow=none;strokeColor=#475569;strokeWidth=1.5;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="label-a" target="label-b">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,25 @@
+{
+  "title": "Order processing — illustrative architecture",
+  "state": "Illustrative example, not a statement about a real enterprise",
+  "nodes": [
+    {"id": "clerk", "type": "Business Actor", "name": "Order Clerk", "x": 30, "y": 65},
+    {"id": "process", "type": "Business Process", "name": "Process Order", "x": 300, "y": 65},
+    {"id": "order", "type": "Business Object", "name": "Order", "x": 570, "y": 65},
+    {"id": "app", "type": "Application Component", "name": "Order Application", "x": 30, "y": 260},
+    {"id": "app-function", "type": "Application Function", "name": "Maintain Orders", "x": 300, "y": 260},
+    {"id": "app-service", "type": "Application Service", "name": "Order Management", "x": 570, "y": 260},
+    {"id": "node", "type": "Node", "name": "Application Runtime", "x": 30, "y": 470},
+    {"id": "tech-function", "type": "Technology Function", "name": "Execute Application", "x": 300, "y": 470},
+    {"id": "tech-service", "type": "Technology Service", "name": "Application Hosting", "x": 570, "y": 470}
+  ],
+  "edges": [
+    {"id": "clerk-process", "type": "Assignment", "source": "clerk", "target": "process"},
+    {"id": "process-order", "type": "Access", "source": "process", "target": "order", "access_mode": "write"},
+    {"id": "app-function-edge", "type": "Assignment", "source": "app", "target": "app-function"},
+    {"id": "function-service", "type": "Realization", "source": "app-function", "target": "app-service"},
+    {"id": "service-process", "type": "Serving", "source": "app-service", "target": "process", "points": [[660,200],[390,200]], "label_position": [520,200]},
+    {"id": "node-function", "type": "Assignment", "source": "node", "target": "tech-function"},
+    {"id": "technology-service", "type": "Realization", "source": "tech-function", "target": "tech-service"},
+    {"id": "hosting-app", "type": "Serving", "source": "tech-service", "target": "app", "points": [[660,400],[120,400]], "label_position": [410,400]}
+  ]
+}

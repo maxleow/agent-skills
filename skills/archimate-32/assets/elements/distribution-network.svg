@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 86.70813 37.45268" width="86.70813" height="37.45268">
+<title>Distribution Network</title>
+<metadata>Copyright © 2022 The Open Group. All Rights Reserved. ArchiMate® is a registered trademark of The Open Group. Source: N221, PDF page 11. Label-free vector extraction; no raster tracing.</metadata>
+<g transform="translate(-411.96086 -201.42796)">
+<path d="M414.26871 236.57281 L496.36139 236.57281 L496.36139 203.73581 L414.26871 203.73581 Z" fill="#afffaf" stroke="none" stroke-width="0" fill-rule="nonzero" stroke-linecap="butt" stroke-linejoin="miter"/>
+<path d="M414.26871 236.5728 L496.36115 236.5728 L496.36115 203.73581 L414.26871 203.73581 Z" fill="none" stroke="#000000" stroke-width="0.61569" fill-rule="nonzero" stroke-linecap="butt" stroke-linejoin="miter"/>
+<path d="M486.1991 208.93262 L487.20969 207.60664 L493.133 207.60664 L494.24185 209.04961 L493.31546 210.21956 L487.20969 210.14162 L486.1991 208.93262" fill="none" stroke="#000000" stroke-width="0.36182" fill-rule="nonzero" stroke-linecap="butt" stroke-linejoin="round"/>
+<path d="M487.2204 207.58171 L488.31216 206.09258" fill="none" stroke="#000000" stroke-width="0.36182" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M487.2204 210.15431 L488.23276 211.47791" fill="none" stroke="#000000" stroke-width="0.36182" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="miter"/>
+<path d="M493.31271 210.20941 L492.1217 211.75368" fill="none" stroke="#000000" stroke-width="0.36182" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="miter"/>
+<path d="M493.14401 207.61261 L492.19119 206.28902" fill="none" stroke="#000000" stroke-width="0.36182" fill-rule="nonzero" stroke-linecap="round" stroke-linejoin="miter"/>
+</g>
+</svg>

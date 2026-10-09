@@ -1,0 +1,2472 @@
+{
+  "source": {
+    "title": "ArchiMate 3.2 Specification Reference Cards — Personal PDF Edition",
+    "publication": "N221",
+    "publisher": "The Open Group",
+    "year": 2022,
+    "filename": "n221p.pdf",
+    "sha256": "0dab858eda810c6bb67926e044951f540ec683dd5c35fbfd849ccffa0ef836df",
+    "copyright": "Copyright © 2022 The Open Group. All Rights Reserved.",
+    "trademark": "ArchiMate® is a registered trademark of The Open Group."
+  },
+  "coordinate_system": "PDF points, origin at top left",
+  "assets": [
+    {
+      "path": "assets/elements/stakeholder.svg",
+      "type": "Stakeholder",
+      "pdf_page": 3,
+      "selection_box": [
+        413,
+        79.871,
+        510,
+        133.301
+      ],
+      "vector_bounds": [
+        413.1289,
+        87.43078,
+        501.95777,
+        125.74122
+      ],
+      "sha256": "d71ab351d7ac1da1934f5c113b29cdc78e49e7095ca2fa36f3c7fcaff5ef7c25"
+    },
+    {
+      "path": "assets/symbols/stakeholder.svg",
+      "type": "Stakeholder",
+      "pdf_page": 3,
+      "selection_box": [
+        513,
+        79.871,
+        578,
+        133.301
+      ],
+      "vector_bounds": [
+        522.26927,
+        98.56734,
+        571.83424,
+        125.63108
+      ],
+      "sha256": "2a48d6634cbc4eef80dd2b5c6413d490abd9d3c26d5d94f6dd7b663a7634ab2d"
+    },
+    {
+      "path": "assets/elements/driver.svg",
+      "type": "Driver",
+      "pdf_page": 3,
+      "selection_box": [
+        413,
+        135.301,
+        510,
+        188.731
+      ],
+      "vector_bounds": [
+        413.1289,
+        142.86077,
+        501.95777,
+        181.17121
+      ],
+      "sha256": "56f633c3f5ade287cd5de718e251b4e7d185de4ad4d2f2a84dbd39b1010ee4ad"
+    },
+    {
+      "path": "assets/symbols/driver.svg",
+      "type": "Driver",
+      "pdf_page": 3,
+      "selection_box": [
+        513,
+        135.301,
+        578,
+        188.731
+      ],
+      "vector_bounds": [
+        523.92831,
+        146.9978,
+        557.56333,
+        180.6328
+      ],
+      "sha256": "79f364db5ba30923dde98c7067a594f1d002c80e05965c7976f1512a7d41bbcb"
+    },
+    {
+      "path": "assets/elements/assessment.svg",
+      "type": "Assessment",
+      "pdf_page": 3,
+      "selection_box": [
+        413,
+        190.731,
+        510,
+        244.161
+      ],
+      "vector_bounds": [
+        413.1289,
+        198.29087,
+        501.95777,
+        236.60132
+      ],
+      "sha256": "a7e3d5442be1d767dae7ba4d826f7d81a2baddf1af0734eeb6c96d2e4d6bbf02"
+    },
+    {
+      "path": "assets/symbols/assessment.svg",
+      "type": "Assessment",
+      "pdf_page": 3,
+      "selection_box": [
+        513,
+        190.731,
+        578,
+        244.161
+      ],
+      "vector_bounds": [
+        523.00897,
+        204.32306,
+        553.6449,
+        235.0011
+      ],
+      "sha256": "c0d0e3b1b3787f25e1a4656206cc1f3cf3a72ea511232ec8a8a7ea0e19c10dee"
+    },
+    {
+      "path": "assets/elements/goal.svg",
+      "type": "Goal",
+      "pdf_page": 3,
+      "selection_box": [
+        413,
+        246.161,
+        510,
+        299.591
+      ],
+      "vector_bounds": [
+        413.1289,
+        253.72088,
+        501.95777,
+        292.03132
+      ],
+      "sha256": "df572240f73ff11dac3d89769617caee742a1042597982e078e51275950c8333"
+    },
+    {
+      "path": "assets/symbols/goal.svg",
+      "type": "Goal",
+      "pdf_page": 3,
+      "selection_box": [
+        513,
+        246.161,
+        578,
+        299.591
+      ],
+      "vector_bounds": [
+        523.09307,
+        258.85839,
+        555.64307,
+        291.40842
+      ],
+      "sha256": "7791ae01115c1146ce94a6c562d704450a57e4e3b745be478b072f28dc9b51ed"
+    },
+    {
+      "path": "assets/elements/outcome.svg",
+      "type": "Outcome",
+      "pdf_page": 3,
+      "selection_box": [
+        413,
+        301.591,
+        510,
+        355.021
+      ],
+      "vector_bounds": [
+        413.1289,
+        308.93487,
+        501.95777,
+        347.24531
+      ],
+      "sha256": "f50527c8f5f08952f758a6305fd37c2b2e20313e3cb936b7111dfdd1d3d72ae9"
+    },
+    {
+      "path": "assets/symbols/outcome.svg",
+      "type": "Outcome",
+      "pdf_page": 3,
+      "selection_box": [
+        513,
+        301.591,
+        578,
+        355.021
+      ],
+      "vector_bounds": [
+        522.92969,
+        309.67798,
+        560.33593,
+        347.19377
+      ],
+      "sha256": "fe2ddc5c8b305cfcc8153cfd43499c87f9fa9728144001f4cf62868c3bddaf5d"
+    },
+    {
+      "path": "assets/elements/principle.svg",
+      "type": "Principle",
+      "pdf_page": 4,
+      "selection_box": [
+        413,
+        79.871,
+        510,
+        132.069
+      ],
+      "vector_bounds": [
+        412.1289,
+        86.81497,
+        500.95777,
+        125.12541
+      ],
+      "sha256": "88995cc5e70e26133ab77511b1626f01f11395b9d177f2047a4580e3b8813b9f"
+    },
+    {
+      "path": "assets/symbols/principle.svg",
+      "type": "Principle",
+      "pdf_page": 4,
+      "selection_box": [
+        513,
+        79.871,
+        578,
+        132.069
+      ],
+      "vector_bounds": [
+        514.67844,
+        94.69305,
+        549.63265,
+        125.63962
+      ],
+      "sha256": "f59cf2e578f0625a18ff0df034349c76fb051c2530e68a38fafc8f552c81e147"
+    },
+    {
+      "path": "assets/elements/requirement.svg",
+      "type": "Requirement",
+      "pdf_page": 4,
+      "selection_box": [
+        413,
+        134.069,
+        510,
+        186.268
+      ],
+      "vector_bounds": [
+        412.12852,
+        141.07511,
+        500.65109,
+        179.26165
+      ],
+      "sha256": "e0aee75909102f25073acc2aa4d01625bc05072ab590e7acc4413afd538186eb"
+    },
+    {
+      "path": "assets/symbols/requirement.svg",
+      "type": "Requirement",
+      "pdf_page": 4,
+      "selection_box": [
+        513,
+        134.069,
+        578,
+        186.268
+      ],
+      "vector_bounds": [
+        514.95851,
+        151.34831,
+        568.8145,
+        178.3763
+      ],
+      "sha256": "d6c297e82c2cf34c28086a8c16e2a89cc17e6fa61efa007b8c02028c79ee2e5c"
+    },
+    {
+      "path": "assets/elements/constraint.svg",
+      "type": "Constraint",
+      "pdf_page": 4,
+      "selection_box": [
+        413,
+        188.268,
+        510,
+        240.466
+      ],
+      "vector_bounds": [
+        412.12852,
+        195.27361,
+        500.65109,
+        233.46015
+      ],
+      "sha256": "bf04c2f8d442e0b365498032ac44cc8e53a90e0a2f11ff08db3785ba660d346c"
+    },
+    {
+      "path": "assets/symbols/constraint.svg",
+      "type": "Constraint",
+      "pdf_page": 4,
+      "selection_box": [
+        513,
+        188.268,
+        578,
+        240.466
+      ],
+      "vector_bounds": [
+        515.72011,
+        207.89642,
+        565.66295,
+        232.8887
+      ],
+      "sha256": "f15866eb735ee61783bda30d209172f9ea0859e304bcc0a80fa678c899b0a709"
+    },
+    {
+      "path": "assets/elements/meaning.svg",
+      "type": "Meaning",
+      "pdf_page": 4,
+      "selection_box": [
+        413,
+        242.466,
+        510,
+        294.664
+      ],
+      "vector_bounds": [
+        412.1289,
+        249.40988,
+        500.95777,
+        287.72031
+      ],
+      "sha256": "d3757cd625bb5597a2209c7df2bceff054cf27c462f7115bcf666039a99bf2e5"
+    },
+    {
+      "path": "assets/symbols/meaning.svg",
+      "type": "Meaning",
+      "pdf_page": 4,
+      "selection_box": [
+        513,
+        242.466,
+        578,
+        294.664
+      ],
+      "vector_bounds": [
+        516.21492,
+        256.3521,
+        565.82182,
+        288.36858
+      ],
+      "sha256": "81d7306d49ba5497fbb4100ef0a3bfd44f120dd0832e14a19462b71387f30206"
+    },
+    {
+      "path": "assets/elements/value.svg",
+      "type": "Value",
+      "pdf_page": 4,
+      "selection_box": [
+        413,
+        296.664,
+        510,
+        348.863
+      ],
+      "vector_bounds": [
+        412.1289,
+        303.60827,
+        500.95777,
+        341.91871
+      ],
+      "sha256": "454fe14ca4814ec5834a69e9549cedbc59031fc6a2bc883ef85e7d4b976fbbc3"
+    },
+    {
+      "path": "assets/symbols/value.svg",
+      "type": "Value",
+      "pdf_page": 4,
+      "selection_box": [
+        513,
+        296.664,
+        578,
+        348.863
+      ],
+      "vector_bounds": [
+        514.26933,
+        315.07845,
+        563.8343,
+        342.1422
+      ],
+      "sha256": "4b04e37ca8d07173c352cf93add6250fc1f9b4012a8705523ba9152a7dcfadd9"
+    },
+    {
+      "path": "assets/elements/resource.svg",
+      "type": "Resource",
+      "pdf_page": 5,
+      "selection_box": [
+        413,
+        80.231,
+        510,
+        133.957
+      ],
+      "vector_bounds": [
+        413.12677,
+        88.27527,
+        500.2905,
+        125.9122
+      ],
+      "sha256": "dec12ced810365d71781dfa235412e6ca279bd3cb8127c24519c9777dc4d0857"
+    },
+    {
+      "path": "assets/symbols/resource.svg",
+      "type": "Resource",
+      "pdf_page": 5,
+      "selection_box": [
+        513,
+        80.231,
+        578,
+        133.957
+      ],
+      "vector_bounds": [
+        518.40377,
+        102.77572,
+        562.81107,
+        125.57499
+      ],
+      "sha256": "3132a22df8f91af558db20d8dbd933e46f63ff0c1b84d1a9bcc00a908918ef50"
+    },
+    {
+      "path": "assets/elements/capability.svg",
+      "type": "Capability",
+      "pdf_page": 5,
+      "selection_box": [
+        413,
+        135.957,
+        510,
+        189.682
+      ],
+      "vector_bounds": [
+        413.89071,
+        142.58697,
+        500.62888,
+        180.05179
+      ],
+      "sha256": "e7b8f9ba635cd5803e8fdc53a0ed83fbc84bf4690ddd42d9a98ebdf832aee095"
+    },
+    {
+      "path": "assets/symbols/capability.svg",
+      "type": "Capability",
+      "pdf_page": 5,
+      "selection_box": [
+        513,
+        135.957,
+        578,
+        189.682
+      ],
+      "vector_bounds": [
+        518.66031,
+        152.74079,
+        548.42623,
+        179.34658
+      ],
+      "sha256": "a6ac92aa0e8ab345fabbb028eb36e7ca71ed2454d45028084206b7d272f511fc"
+    },
+    {
+      "path": "assets/elements/value-stream.svg",
+      "type": "Value Stream",
+      "pdf_page": 5,
+      "selection_box": [
+        413,
+        191.682,
+        510,
+        238.276
+      ],
+      "vector_bounds": [
+        413.12746,
+        196.05901,
+        500.79387,
+        233.89927
+      ],
+      "sha256": "ec3295f26a651ce06c1fedd3990d78790e6d07c297d3b230d658fd4162bfa328"
+    },
+    {
+      "path": "assets/symbols/value-stream.svg",
+      "type": "Value Stream",
+      "pdf_page": 5,
+      "selection_box": [
+        513,
+        191.682,
+        578,
+        238.276
+      ],
+      "vector_bounds": [
+        518.12723,
+        206.94777,
+        566.00424,
+        233.15711
+      ],
+      "sha256": "fa6605b71262204ff2d5e5e21ce7827daee95b5c56a61ea2a3f04094706ed62b"
+    },
+    {
+      "path": "assets/elements/course-of-action.svg",
+      "type": "Course of Action",
+      "pdf_page": 5,
+      "selection_box": [
+        413,
+        240.276,
+        510,
+        294.002
+      ],
+      "vector_bounds": [
+        413.12746,
+        248.21871,
+        500.79387,
+        286.05897
+      ],
+      "sha256": "bd5b44b14b49b8b1d4ab2164343a2a588df781d827d37e10b765c220b31d6312"
+    },
+    {
+      "path": "assets/symbols/course-of-action.svg",
+      "type": "Course of Action",
+      "pdf_page": 5,
+      "selection_box": [
+        513,
+        240.276,
+        578,
+        294.002
+      ],
+      "vector_bounds": [
+        518.60693,
+        251.33416,
+        561.05219,
+        286.32239
+      ],
+      "sha256": "6cfdc1f0b65fb296da68195292123af381c862010cc9736cd94b0f77b1252944"
+    },
+    {
+      "path": "assets/elements/business-actor.svg",
+      "type": "Business Actor",
+      "pdf_page": 6,
+      "selection_box": [
+        413,
+        77.54,
+        510,
+        117.949
+      ],
+      "vector_bounds": [
+        413.52363,
+        80.22355,
+        494.27159,
+        115.26555
+      ],
+      "sha256": "40a9809e2610fd0ee5ab3d6bb9edf7f81bc63ba7901b0025cb5e1c2442716df1"
+    },
+    {
+      "path": "assets/symbols/business-actor.svg",
+      "type": "Business Actor",
+      "pdf_page": 6,
+      "selection_box": [
+        513,
+        77.54,
+        578,
+        117.949
+      ],
+      "vector_bounds": [
+        515.68556,
+        83.4827,
+        533.9207,
+        112.91077
+      ],
+      "sha256": "7407b3fa0df285ba1807f43bac8e37988294bc58b3f985f12e58392e432b5723"
+    },
+    {
+      "path": "assets/elements/business-role.svg",
+      "type": "Business Role",
+      "pdf_page": 6,
+      "selection_box": [
+        413,
+        119.949,
+        510,
+        160.631
+      ],
+      "vector_bounds": [
+        411.95738,
+        122.13539,
+        495.83791,
+        158.44439
+      ],
+      "sha256": "d7cd64a3132163f11dc803e17f0967304d85095d748769efcc766e2ed1052f34"
+    },
+    {
+      "path": "assets/symbols/business-role.svg",
+      "type": "Business Role",
+      "pdf_page": 6,
+      "selection_box": [
+        513,
+        119.949,
+        578,
+        160.631
+      ],
+      "vector_bounds": [
+        515.87082,
+        136.04554,
+        555.0588,
+        157.6894
+      ],
+      "sha256": "d049ff2ef6df6657624856fd64b3439d4f4e56d1e7832b73a2ac50bbe42982b8"
+    },
+    {
+      "path": "assets/elements/business-collaboration.svg",
+      "type": "Business Collaboration",
+      "pdf_page": 6,
+      "selection_box": [
+        413,
+        162.631,
+        510,
+        205.708
+      ],
+      "vector_bounds": [
+        411.95738,
+        166.01499,
+        495.83791,
+        202.32399
+      ],
+      "sha256": "b847ae9dff6272c707c0acb06d4157aab35b0aca0b4495b10ae7ef3f58fa3026"
+    },
+    {
+      "path": "assets/symbols/business-collaboration.svg",
+      "type": "Business Collaboration",
+      "pdf_page": 6,
+      "selection_box": [
+        513,
+        162.631,
+        578,
+        205.708
+      ],
+      "vector_bounds": [
+        515.71844,
+        174.81233,
+        557.25147,
+        201.47689
+      ],
+      "sha256": "c90458121f9360ed1aa6878e8f1bcb9c30b07c4ec3f9d56b850ed9c097bb872c"
+    },
+    {
+      "path": "assets/elements/business-interface.svg",
+      "type": "Business Interface",
+      "pdf_page": 6,
+      "selection_box": [
+        413,
+        207.708,
+        510,
+        251.392
+      ],
+      "vector_bounds": [
+        411.95738,
+        211.39569,
+        495.83791,
+        247.70469
+      ],
+      "sha256": "e014436e6ee731ecbb0a0632bfbccc3cc119d303acb00fdf9dea281ac165c3cd"
+    },
+    {
+      "path": "assets/symbols/business-interface.svg",
+      "type": "Business Interface",
+      "pdf_page": 6,
+      "selection_box": [
+        513,
+        207.708,
+        578,
+        251.392
+      ],
+      "vector_bounds": [
+        516.89694,
+        220.44275,
+        554.71567,
+        246.5519
+      ],
+      "sha256": "b2fa23c58cb1e4ce2e983ec41f3fa8378eeeb579f4fb4a105f657bdca4b8a443"
+    },
+    {
+      "path": "assets/elements/business-process.svg",
+      "type": "Business Process",
+      "pdf_page": 6,
+      "selection_box": [
+        413,
+        253.392,
+        510,
+        293.859
+      ],
+      "vector_bounds": [
+        411.95647,
+        255.61431,
+        495.13011,
+        291.63737
+      ],
+      "sha256": "2341b4b500723b6c9e96237a7fdc156f2e3a92c4dcbf3741a9a3b99a2af584d9"
+    },
+    {
+      "path": "assets/symbols/business-process.svg",
+      "type": "Business Process",
+      "pdf_page": 6,
+      "selection_box": [
+        513,
+        253.392,
+        578,
+        293.859
+      ],
+      "vector_bounds": [
+        515.53651,
+        266.49141,
+        558.35313,
+        290.13933
+      ],
+      "sha256": "53ed96637e3fb4c4b21002a15e5bd8752f9006f72174e1dc192e0dfc081556fc"
+    },
+    {
+      "path": "assets/elements/business-function.svg",
+      "type": "Business Function",
+      "pdf_page": 6,
+      "selection_box": [
+        413,
+        295.859,
+        510,
+        346.537
+      ],
+      "vector_bounds": [
+        411.95647,
+        303.18651,
+        495.13011,
+        339.20958
+      ],
+      "sha256": "441f79e314cda0f8bb5b94f293ce049c448fd1abe3e1d056a8c3af622d6a998e"
+    },
+    {
+      "path": "assets/symbols/business-function.svg",
+      "type": "Business Function",
+      "pdf_page": 6,
+      "selection_box": [
+        513,
+        295.859,
+        578,
+        346.537
+      ],
+      "vector_bounds": [
+        517.94982,
+        311.18642,
+        559.26283,
+        339.11359
+      ],
+      "sha256": "7e066dd0a95a534110e1ffb758d0f59959d622f166b13c5fda0343c073ef4597"
+    },
+    {
+      "path": "assets/elements/business-interaction.svg",
+      "type": "Business Interaction",
+      "pdf_page": 7,
+      "selection_box": [
+        413,
+        78.67,
+        510,
+        119.078
+      ],
+      "vector_bounds": [
+        412.22983,
+        79.69401,
+        499.81731,
+        117.50234
+      ],
+      "sha256": "932e0392d602613fefacc00a280c5ba9178b51c079845721aff2fbfb22659e52"
+    },
+    {
+      "path": "assets/symbols/business-interaction.svg",
+      "type": "Business Interaction",
+      "pdf_page": 7,
+      "selection_box": [
+        513,
+        78.67,
+        578,
+        119.078
+      ],
+      "vector_bounds": [
+        525.72465,
+        89.3068,
+        556.84286,
+        116.35955
+      ],
+      "sha256": "83e49f5b232160a0d650ad5a6d73bf1ea5fadf4cd856d827bd828de72e6cd856"
+    },
+    {
+      "path": "assets/elements/business-event.svg",
+      "type": "Business Event",
+      "pdf_page": 7,
+      "selection_box": [
+        413,
+        121.078,
+        510,
+        161.709
+      ],
+      "vector_bounds": [
+        413.13787,
+        122.85656,
+        498.90934,
+        159.9304
+      ],
+      "sha256": "3dee037d8b8f1431b4aa70088968883da2066c9105b4637942f5021a9449509c"
+    },
+    {
+      "path": "assets/symbols/business-event.svg",
+      "type": "Business Event",
+      "pdf_page": 7,
+      "selection_box": [
+        513,
+        121.078,
+        578,
+        161.709
+      ],
+      "vector_bounds": [
+        525.83078,
+        134.28378,
+        570.05893,
+        158.64618
+      ],
+      "sha256": "5c5cd2f435541b51b6dcd61a7af217fdd7871597fb90194d7eab4ce7a377deed"
+    },
+    {
+      "path": "assets/elements/business-service.svg",
+      "type": "Business Service",
+      "pdf_page": 7,
+      "selection_box": [
+        413,
+        163.709,
+        510,
+        204.117
+      ],
+      "vector_bounds": [
+        412.22983,
+        165.00919,
+        499.81731,
+        202.81753
+      ],
+      "sha256": "563956e54a6c58c6a1353573230f9cb5a243c8e31a61783d8714f102eeb3736f"
+    },
+    {
+      "path": "assets/symbols/business-service.svg",
+      "type": "Business Service",
+      "pdf_page": 7,
+      "selection_box": [
+        513,
+        163.709,
+        578,
+        204.117
+      ],
+      "vector_bounds": [
+        526.07081,
+        177.6191,
+        569.23107,
+        201.26551
+      ],
+      "sha256": "52a54bcf8f0602e64331b4a5a57fe54f73966d209ea647d945bfe2fcad39c999"
+    },
+    {
+      "path": "assets/elements/business-object.svg",
+      "type": "Business Object",
+      "pdf_page": 7,
+      "selection_box": [
+        413,
+        206.117,
+        510,
+        246.526
+      ],
+      "vector_bounds": [
+        413.17209,
+        207.79862,
+        498.87515,
+        244.84479
+      ],
+      "sha256": "a697f7ce463d6f0b5be338defcf34b751e91fbfd4e7536c4aab90f615254977c"
+    },
+    {
+      "path": "assets/symbols/business-object.svg",
+      "type": "Business Object",
+      "pdf_page": 7,
+      "selection_box": [
+        513,
+        206.117,
+        578,
+        246.526
+      ],
+      "vector_bounds": [
+        525.12216,
+        219.61456,
+        569.35031,
+        243.97694
+      ],
+      "sha256": "2e40b09b880028451c4f628e99156d7adaa6b83a0e177d592e8e32b3f1a4df40"
+    },
+    {
+      "path": "assets/elements/contract.svg",
+      "type": "Contract",
+      "pdf_page": 7,
+      "selection_box": [
+        413,
+        248.526,
+        510,
+        298.839
+      ],
+      "vector_bounds": [
+        411.96086,
+        254.95625,
+        498.66899,
+        292.40895
+      ],
+      "sha256": "eb1705068378d22d88430ebcbf22f384fd646d4381ffbd720341afd249323c42"
+    },
+    {
+      "path": "assets/symbols/contract.svg",
+      "type": "Contract",
+      "pdf_page": 7,
+      "selection_box": [
+        513,
+        248.526,
+        578,
+        298.839
+      ],
+      "vector_bounds": [
+        524.94204,
+        268.75347,
+        565.72947,
+        290.97269
+      ],
+      "sha256": "ee8aaf53239cbca62918c7fd5e19a38ce57e22c782ea98af9dcf3adde218bb1a"
+    },
+    {
+      "path": "assets/elements/representation.svg",
+      "type": "Representation",
+      "pdf_page": 7,
+      "selection_box": [
+        413,
+        300.839,
+        510,
+        340.722
+      ],
+      "vector_bounds": [
+        412.52232,
+        302.28154,
+        498.10756,
+        339.28005
+      ],
+      "sha256": "cbc3ee1c243a3eb8c1700b655d9e658faadc63de954b06072947093bd42944b8"
+    },
+    {
+      "path": "assets/symbols/representation.svg",
+      "type": "Representation",
+      "pdf_page": 7,
+      "selection_box": [
+        513,
+        300.839,
+        578,
+        340.722
+      ],
+      "vector_bounds": [
+        525.39899,
+        313.04657,
+        569.88836,
+        337.38867
+      ],
+      "sha256": "8b6ca7491d6dbcca5e86ad1b17e8e5603aa109936a29f4a5e0f624809ed9dd4f"
+    },
+    {
+      "path": "assets/elements/product.svg",
+      "type": "Product",
+      "pdf_page": 7,
+      "selection_box": [
+        413,
+        342.722,
+        510,
+        383.131
+      ],
+      "vector_bounds": [
+        412.2349,
+        344.31086,
+        498.39504,
+        381.54189
+      ],
+      "sha256": "d1c352b4d356459ef6bd1b9a96803518708fd0bc871def3d3fc7d121c5624bfe"
+    },
+    {
+      "path": "assets/symbols/product.svg",
+      "type": "Product",
+      "pdf_page": 7,
+      "selection_box": [
+        513,
+        342.722,
+        578,
+        383.131
+      ],
+      "vector_bounds": [
+        524.53802,
+        355.98214,
+        568.06043,
+        379.98731
+      ],
+      "sha256": "4858d894210c7346e444a2472478ae5f681ed513110bbf73f250ce402c99a46b"
+    },
+    {
+      "path": "assets/elements/application-component.svg",
+      "type": "Application Component",
+      "pdf_page": 8,
+      "selection_box": [
+        413,
+        77.176,
+        510,
+        114.49
+      ],
+      "vector_bounds": [
+        416.56717,
+        80.97629,
+        484.14154,
+        110.69
+      ],
+      "sha256": "40cb3f0e6cc8e00d7d43c1b80117ebe99a470f6dca4e574883d303659ccd7298"
+    },
+    {
+      "path": "assets/symbols/application-component.svg",
+      "type": "Application Component",
+      "pdf_page": 8,
+      "selection_box": [
+        513,
+        77.176,
+        578,
+        114.49
+      ],
+      "vector_bounds": [
+        524.86251,
+        87.71172,
+        558.64555,
+        109.75439
+      ],
+      "sha256": "03ccc9905d651770ef8d1765e66378aefb50fc9f64ce3431ce03e45c333747b6"
+    },
+    {
+      "path": "assets/elements/application-collaboration.svg",
+      "type": "Application Collaboration",
+      "pdf_page": 8,
+      "selection_box": [
+        413,
+        116.49,
+        510,
+        153.803
+      ],
+      "vector_bounds": [
+        417.42135,
+        120.77899,
+        482.57852,
+        149.51502
+      ],
+      "sha256": "c225662dde1154b6bf646d83259a2ce8df0996c1f59aa5730305e43bc64d25e9"
+    },
+    {
+      "path": "assets/symbols/application-collaboration.svg",
+      "type": "Application Collaboration",
+      "pdf_page": 8,
+      "selection_box": [
+        513,
+        116.49,
+        578,
+        153.803
+      ],
+      "vector_bounds": [
+        525.81486,
+        127.35886,
+        559.76717,
+        149.44577
+      ],
+      "sha256": "86deeb1e7494c0ea2639ae1e6ea154d2384c7cace53b43797c967fd49835f54f"
+    },
+    {
+      "path": "assets/elements/application-interface.svg",
+      "type": "Application Interface",
+      "pdf_page": 8,
+      "selection_box": [
+        413,
+        155.803,
+        510,
+        193.117
+      ],
+      "vector_bounds": [
+        416.55257,
+        159.59749,
+        484.15596,
+        189.32293
+      ],
+      "sha256": "a042b802cd8b971d1ef1fdb33e2f5a58ae4b390281072f5daa4af9f31d3cc6be"
+    },
+    {
+      "path": "assets/symbols/application-interface.svg",
+      "type": "Application Interface",
+      "pdf_page": 8,
+      "selection_box": [
+        513,
+        155.803,
+        578,
+        193.117
+      ],
+      "vector_bounds": [
+        525.22238,
+        167.11805,
+        556.19431,
+        188.75113
+      ],
+      "sha256": "0c94d3bf44f7239e2f349fefe3d320a08e7fea0004e8ad2422b2c26d36c5231e"
+    },
+    {
+      "path": "assets/elements/application-function.svg",
+      "type": "Application Function",
+      "pdf_page": 8,
+      "selection_box": [
+        413,
+        195.117,
+        510,
+        224.313
+      ],
+      "vector_bounds": [
+        416.99089,
+        195.02965,
+        483.71779,
+        224.40059
+      ],
+      "sha256": "c2c21ecc602300c9e41604a548adeecec693cb1516551108d6c00c757ef9ecdd"
+    },
+    {
+      "path": "assets/symbols/application-function.svg",
+      "type": "Application Function",
+      "pdf_page": 8,
+      "selection_box": [
+        513,
+        195.117,
+        578,
+        224.313
+      ],
+      "vector_bounds": [
+        526.14571,
+        202.98075,
+        556.48429,
+        223.87052
+      ],
+      "sha256": "6b9388c9ee8eaebe3ff5a7f0a01c2b2c493389fa6013651c919cef6204f1e542"
+    },
+    {
+      "path": "assets/elements/application-interaction.svg",
+      "type": "Application Interaction",
+      "pdf_page": 8,
+      "selection_box": [
+        413,
+        226.313,
+        510,
+        255.47899999999998
+      ],
+      "vector_bounds": [
+        417.02714,
+        226.22541,
+        483.68145,
+        255.56698
+      ],
+      "sha256": "b4b38a3ea42b5a3aa173da42599ae8fcfaac7893c884ac80a221ef4e9e2fab2e"
+    },
+    {
+      "path": "assets/symbols/application-interaction.svg",
+      "type": "Application Interaction",
+      "pdf_page": 8,
+      "selection_box": [
+        513,
+        226.313,
+        578,
+        255.47899999999998
+      ],
+      "vector_bounds": [
+        526.2433,
+        232.56035,
+        550.98088,
+        254.18893
+      ],
+      "sha256": "e65d4cbacac089e00c7ec60dd6b0a021e9283dbad083864668cbd7bb786bdde1"
+    },
+    {
+      "path": "assets/elements/application-process.svg",
+      "type": "Application Process",
+      "pdf_page": 8,
+      "selection_box": [
+        413,
+        257.479,
+        510,
+        286.477
+      ],
+      "vector_bounds": [
+        417.76705,
+        257.60684,
+        482.94156,
+        286.34989
+      ],
+      "sha256": "6e35c8feb445fa25218b25c4d9f965b05d4718bd86a75ea11fdada6be888a625"
+    },
+    {
+      "path": "assets/symbols/application-process.svg",
+      "type": "Application Process",
+      "pdf_page": 8,
+      "selection_box": [
+        513,
+        257.479,
+        578,
+        286.477
+      ],
+      "vector_bounds": [
+        525.91123,
+        265.64097,
+        561.85244,
+        285.80874
+      ],
+      "sha256": "ed9253b68d352e4c932b94656b4c1fff34a4af416174e74f7b53fdb9da5e462d"
+    },
+    {
+      "path": "assets/elements/application-event.svg",
+      "type": "Application Event",
+      "pdf_page": 8,
+      "selection_box": [
+        413,
+        288.477,
+        510,
+        317.475
+      ],
+      "vector_bounds": [
+        417.07481,
+        288.46779,
+        482.92525,
+        317.48421
+      ],
+      "sha256": "7d6b640652a2a8109d0ae39fc128a1b04280e39b20d39675750328e391c34e6f"
+    },
+    {
+      "path": "assets/symbols/application-event.svg",
+      "type": "Application Event",
+      "pdf_page": 8,
+      "selection_box": [
+        513,
+        288.477,
+        578,
+        317.475
+      ],
+      "vector_bounds": [
+        526.116,
+        297.23945,
+        562.05721,
+        317.40722
+      ],
+      "sha256": "adbb70728eb66e50cbc34e08ab98915227b82d90ad0f4d8e4055e3350d2ad1f8"
+    },
+    {
+      "path": "assets/elements/application-service.svg",
+      "type": "Application Service",
+      "pdf_page": 8,
+      "selection_box": [
+        413,
+        319.475,
+        510,
+        350.188
+      ],
+      "vector_bounds": [
+        418.57304,
+        320.55015,
+        483.3012,
+        349.11266
+      ],
+      "sha256": "dc3b00670527271ace4e16bec106f9aadb4201b045a1910fb81efd15f9d8afbc"
+    },
+    {
+      "path": "assets/symbols/application-service.svg",
+      "type": "Application Service",
+      "pdf_page": 8,
+      "selection_box": [
+        513,
+        319.475,
+        578,
+        350.188
+      ],
+      "vector_bounds": [
+        525.42164,
+        327.7147,
+        562.75158,
+        348.58541
+      ],
+      "sha256": "009fe502ad0330f02838f6774cf89b751a329ff96aef9ed1f13cf9f9573286be"
+    },
+    {
+      "path": "assets/elements/data-object.svg",
+      "type": "Data Object",
+      "pdf_page": 8,
+      "selection_box": [
+        413,
+        352.188,
+        510,
+        383.133
+      ],
+      "vector_bounds": [
+        418.28823,
+        353.26373,
+        483.5857,
+        382.05649
+      ],
+      "sha256": "6e4528511b8beb072b126dac08d56f9be715f9f8b2fd0f0e0fb4ea9f4461c460"
+    },
+    {
+      "path": "assets/symbols/data-object.svg",
+      "type": "Data Object",
+      "pdf_page": 8,
+      "selection_box": [
+        513,
+        352.188,
+        578,
+        383.133
+      ],
+      "vector_bounds": [
+        526.57118,
+        361.31315,
+        563.90111,
+        382.18386
+      ],
+      "sha256": "801d38e0152ef7fbb2c17c0a6845d192fbbdac82f88ec4a71fb3f99dac018af1"
+    },
+    {
+      "path": "assets/elements/node.svg",
+      "type": "Node",
+      "pdf_page": 9,
+      "selection_box": [
+        413,
+        79.871,
+        510,
+        120.279
+      ],
+      "vector_bounds": [
+        416.54107,
+        83.42709,
+        491.50608,
+        116.13005
+      ],
+      "sha256": "787291409e362917ddec5e6ae7068aeb7d71fce1cd04b65b1e10b1bf357c31ee"
+    },
+    {
+      "path": "assets/symbols/node.svg",
+      "type": "Node",
+      "pdf_page": 9,
+      "selection_box": [
+        513,
+        79.871,
+        578,
+        120.279
+      ],
+      "vector_bounds": [
+        527.44125,
+        89.73634,
+        566.02335,
+        111.24086
+      ],
+      "sha256": "5ff1ef8dc7743b2116364e0eee4ff24c823f90e828cb0bd118a5ff475ac4246d"
+    },
+    {
+      "path": "assets/elements/device.svg",
+      "type": "Device",
+      "pdf_page": 9,
+      "selection_box": [
+        413,
+        122.279,
+        510,
+        162.688
+      ],
+      "vector_bounds": [
+        415.87503,
+        125.91376,
+        491.9201,
+        159.05357
+      ],
+      "sha256": "85e070b6794b8c59902fd06354fbeceae82325b2b73439ce919e0a5be4bc2c38"
+    },
+    {
+      "path": "assets/symbols/device.svg",
+      "type": "Device",
+      "pdf_page": 9,
+      "selection_box": [
+        513,
+        122.279,
+        578,
+        162.688
+      ],
+      "vector_bounds": [
+        528.1886,
+        137.3039,
+        566.48846,
+        158.66548
+      ],
+      "sha256": "1aad9dbbd78bdb7513aca76fd4ca18bdf8b83d6ec2dc84afd22b292697c11c58"
+    },
+    {
+      "path": "assets/elements/system-software.svg",
+      "type": "System Software",
+      "pdf_page": 9,
+      "selection_box": [
+        413,
+        164.688,
+        510,
+        205.096
+      ],
+      "vector_bounds": [
+        417.58721,
+        168.72773,
+        491.62534,
+        201.05581
+      ],
+      "sha256": "b6e26febb5c9e1e46691a034c56d516456486c35011c2cedd315ca47e0664924"
+    },
+    {
+      "path": "assets/symbols/system-software.svg",
+      "type": "System Software",
+      "pdf_page": 9,
+      "selection_box": [
+        513,
+        164.688,
+        578,
+        205.096
+      ],
+      "vector_bounds": [
+        528.32485,
+        172.57848,
+        559.43931,
+        200.73998
+      ],
+      "sha256": "c12e69d769f2f37e7a6fccf14daeaceb6159209d4c4362cdf415869eb717402d"
+    },
+    {
+      "path": "assets/elements/technology-collaboration.svg",
+      "type": "Technology Collaboration",
+      "pdf_page": 9,
+      "selection_box": [
+        413,
+        207.096,
+        510,
+        247.504
+      ],
+      "vector_bounds": [
+        416.33314,
+        210.48555,
+        493.58815,
+        244.11475
+      ],
+      "sha256": "070ddfaedbe886ea3c410ef31745df77bf9370f14043a36bb4c1ee94e80c7b4d"
+    },
+    {
+      "path": "assets/symbols/technology-collaboration.svg",
+      "type": "Technology Collaboration",
+      "pdf_page": 9,
+      "selection_box": [
+        513,
+        207.096,
+        578,
+        247.504
+      ],
+      "vector_bounds": [
+        529.19705,
+        219.32452,
+        566.10843,
+        243.1983
+      ],
+      "sha256": "3864038b0386944a353b8faca1146d692ceda5fb52948635a11a3c2671995108"
+    },
+    {
+      "path": "assets/elements/technology-interface.svg",
+      "type": "Technology Interface",
+      "pdf_page": 9,
+      "selection_box": [
+        413,
+        249.504,
+        510,
+        289.913
+      ],
+      "vector_bounds": [
+        417.3256,
+        253.1518,
+        493.30426,
+        286.26477
+      ],
+      "sha256": "01a44437e7e5034505e3b4550746fbc806308767e533c7b324282a1c9eb9a4fd"
+    },
+    {
+      "path": "assets/symbols/technology-interface.svg",
+      "type": "Technology Interface",
+      "pdf_page": 9,
+      "selection_box": [
+        513,
+        249.504,
+        578,
+        289.913
+      ],
+      "vector_bounds": [
+        530.04002,
+        260.89573,
+        565.91915,
+        285.73696
+      ],
+      "sha256": "b2acbdfa696db263c76a430101878526797459965e07199d2514d829818784f5"
+    },
+    {
+      "path": "assets/elements/path.svg",
+      "type": "Path",
+      "pdf_page": 9,
+      "selection_box": [
+        413,
+        291.913,
+        510,
+        332.321
+      ],
+      "vector_bounds": [
+        417.18877,
+        295.50487,
+        493.44117,
+        328.72855
+      ],
+      "sha256": "6e6614e0e6fcda8b449e96e8d28b63817e8c5f8afc5708ea3bae55adb635a23a"
+    },
+    {
+      "path": "assets/symbols/path.svg",
+      "type": "Path",
+      "pdf_page": 9,
+      "selection_box": [
+        513,
+        291.913,
+        578,
+        332.321
+      ],
+      "vector_bounds": [
+        529.66529,
+        307.64185,
+        563.12298,
+        325.68957
+      ],
+      "sha256": "10b4964d7a828c54a4b9b45541c0210fdf66317967af7b8a221669c15918af20"
+    },
+    {
+      "path": "assets/elements/communication-network.svg",
+      "type": "Communication Network",
+      "pdf_page": 9,
+      "selection_box": [
+        413,
+        334.321,
+        510,
+        374.729
+      ],
+      "vector_bounds": [
+        417.31087,
+        337.96257,
+        493.31905,
+        371.08745
+      ],
+      "sha256": "05f6ab3ce0782b2541c8fecdfbc5c02b74299e05d49315f0e87e8c8c5b1828a9"
+    },
+    {
+      "path": "assets/symbols/communication-network.svg",
+      "type": "Communication Network",
+      "pdf_page": 9,
+      "selection_box": [
+        513,
+        334.321,
+        578,
+        374.729
+      ],
+      "vector_bounds": [
+        530.28867,
+        344.74613,
+        561.397,
+        369.62975
+      ],
+      "sha256": "3c501ef4eaab525c8130c6c2c3110863d33c5ab5d7eeb54e2355a378b5fe0384"
+    },
+    {
+      "path": "assets/elements/technology-function.svg",
+      "type": "Technology Function",
+      "pdf_page": 10,
+      "selection_box": [
+        413,
+        80.587,
+        510,
+        120.995
+      ],
+      "vector_bounds": [
+        415.7066,
+        83.43621,
+        495.63184,
+        118.14544
+      ],
+      "sha256": "3aeb41871a73e2b20a3d5f446f332d68d0c70936cb4fa36f6af2cc0f424c25ac"
+    },
+    {
+      "path": "assets/symbols/technology-function.svg",
+      "type": "Technology Function",
+      "pdf_page": 10,
+      "selection_box": [
+        513,
+        80.587,
+        578,
+        120.995
+      ],
+      "vector_bounds": [
+        532.03335,
+        91.76843,
+        568.4863,
+        116.57903
+      ],
+      "sha256": "046219ce655bd06fc545fd0dcd5beb43ab759a267ca766a5157642462b206243"
+    },
+    {
+      "path": "assets/elements/technology-process.svg",
+      "type": "Technology Process",
+      "pdf_page": 10,
+      "selection_box": [
+        413,
+        122.995,
+        510,
+        163.403
+      ],
+      "vector_bounds": [
+        415.7066,
+        125.84393,
+        495.63184,
+        160.55315
+      ],
+      "sha256": "1221d2ddad79de80f1a2f6d7a3cf9df9e38b948d5974daa28be19262dc65b145"
+    },
+    {
+      "path": "assets/symbols/technology-process.svg",
+      "type": "Technology Process",
+      "pdf_page": 10,
+      "selection_box": [
+        513,
+        122.995,
+        578,
+        163.403
+      ],
+      "vector_bounds": [
+        533.58329,
+        139.86988,
+        568.49544,
+        159.51677
+      ],
+      "sha256": "2c9146ae04cb2a980ddba6b9d6cf8500555f4afc23ff9a63ddf8987249126395"
+    },
+    {
+      "path": "assets/elements/technology-interaction.svg",
+      "type": "Technology Interaction",
+      "pdf_page": 10,
+      "selection_box": [
+        413,
+        165.403,
+        510,
+        205.811
+      ],
+      "vector_bounds": [
+        416.15831,
+        168.29195,
+        495.88878,
+        202.92241
+      ],
+      "sha256": "43d1161419ea2e18f0f19efe1fd37e9781502649cefc00d5775a0149804fb63f"
+    },
+    {
+      "path": "assets/symbols/technology-interaction.svg",
+      "type": "Technology Interaction",
+      "pdf_page": 10,
+      "selection_box": [
+        513,
+        165.403,
+        578,
+        205.811
+      ],
+      "vector_bounds": [
+        532.62408,
+        175.61513,
+        562.94483,
+        201.98985
+      ],
+      "sha256": "1f9fd8c63198698fec28b0ac0caea7b56f75d4605b34e6b378caf19ee9411ec9"
+    },
+    {
+      "path": "assets/elements/technology-event.svg",
+      "type": "Technology Event",
+      "pdf_page": 10,
+      "selection_box": [
+        413,
+        207.811,
+        510,
+        248.22
+      ],
+      "vector_bounds": [
+        415.88505,
+        210.44627,
+        496.87093,
+        245.58449
+      ],
+      "sha256": "2c0b42238d22eb7e95f6059f74aab3ae0a0aaabbb332af06bd8749a627f330aa"
+    },
+    {
+      "path": "assets/symbols/technology-event.svg",
+      "type": "Technology Event",
+      "pdf_page": 10,
+      "selection_box": [
+        513,
+        207.811,
+        578,
+        248.22
+      ],
+      "vector_bounds": [
+        533.58473,
+        224.43935,
+        569.20268,
+        244.44348
+      ],
+      "sha256": "d1979d51fa4aea50213a6da84997c024fd27f7e49df83c1881786d3565bf06ef"
+    },
+    {
+      "path": "assets/elements/technology-service.svg",
+      "type": "Technology Service",
+      "pdf_page": 10,
+      "selection_box": [
+        413,
+        250.22,
+        510,
+        290.628
+      ],
+      "vector_bounds": [
+        417.32736,
+        253.29516,
+        496.13721,
+        287.55323
+      ],
+      "sha256": "9717da5afb3bb3694966478344f4aa7b3d0bb1ec5c2a4600ddd3ab2e96f80110"
+    },
+    {
+      "path": "assets/symbols/technology-service.svg",
+      "type": "Technology Service",
+      "pdf_page": 10,
+      "selection_box": [
+        513,
+        250.22,
+        578,
+        290.628
+      ],
+      "vector_bounds": [
+        533.58473,
+        266.66762,
+        569.20262,
+        286.67177
+      ],
+      "sha256": "9509d4b63b8c5ac56afc91b56ed7b8a9f974139ec9fe99b3d7aef7929123b6e7"
+    },
+    {
+      "path": "assets/elements/artifact.svg",
+      "type": "Artifact",
+      "pdf_page": 10,
+      "selection_box": [
+        413,
+        292.628,
+        510,
+        333.036
+      ],
+      "vector_bounds": [
+        417.73977,
+        296.01348,
+        495.01603,
+        329.65128
+      ],
+      "sha256": "b3f56ded6ec55e063a3e1b0437c515eecfb5ec6ed7fad484799de12b97b4aef0"
+    },
+    {
+      "path": "assets/symbols/artifact.svg",
+      "type": "Artifact",
+      "pdf_page": 10,
+      "selection_box": [
+        513,
+        292.628,
+        578,
+        333.036
+      ],
+      "vector_bounds": [
+        533.58473,
+        308.1874,
+        569.20268,
+        328.19151
+      ],
+      "sha256": "184cc2f507cff3b20138cd4978681196aa6422b0836bd6d269a7f2a1a1b2501a"
+    },
+    {
+      "path": "assets/elements/equipment.svg",
+      "type": "Equipment",
+      "pdf_page": 11,
+      "selection_box": [
+        413,
+        80.231,
+        510,
+        137.898
+      ],
+      "vector_bounds": [
+        411.96138,
+        85.75902,
+        499.06227,
+        123.37055
+      ],
+      "sha256": "7c85001965ba8dd6916efee404200b7e52b50d4139dd71e5ea9f341e2ad10512"
+    },
+    {
+      "path": "assets/symbols/equipment.svg",
+      "type": "Equipment",
+      "pdf_page": 11,
+      "selection_box": [
+        513,
+        80.231,
+        578,
+        137.898
+      ],
+      "vector_bounds": [
+        522.33156,
+        86.58024,
+        558.9351,
+        123.09565
+      ],
+      "sha256": "4c9e692f895070ca1774852628ff5aba0db802ed7d234bccd6a866702c57cf2c"
+    },
+    {
+      "path": "assets/elements/facility.svg",
+      "type": "Facility",
+      "pdf_page": 11,
+      "selection_box": [
+        413,
+        139.898,
+        510,
+        194.024
+      ],
+      "vector_bounds": [
+        411.96071,
+        144.76961,
+        498.49608,
+        182.1524
+      ],
+      "sha256": "ebc1e5f084d8737e0e8ce88a04fe761bccdb54ef3c9fb7971489556bc38e54aa"
+    },
+    {
+      "path": "assets/symbols/facility.svg",
+      "type": "Facility",
+      "pdf_page": 11,
+      "selection_box": [
+        513,
+        139.898,
+        578,
+        194.024
+      ],
+      "vector_bounds": [
+        522.91454,
+        151.23422,
+        567.07448,
+        182.2074
+      ],
+      "sha256": "cff51079dd15f59a8573addb32da5c389ba1c8d4abe8b60eac6aeb2abd545be5"
+    },
+    {
+      "path": "assets/elements/distribution-network.svg",
+      "type": "Distribution Network",
+      "pdf_page": 11,
+      "selection_box": [
+        413,
+        196.024,
+        510,
+        251.284
+      ],
+      "vector_bounds": [
+        411.96086,
+        201.42796,
+        498.66899,
+        238.88065
+      ],
+      "sha256": "5d4d7b0f065823c9d07917ca765447f3fb9148262cd5e26c9c49da4af8628a4b"
+    },
+    {
+      "path": "assets/symbols/distribution-network.svg",
+      "type": "Distribution Network",
+      "pdf_page": 11,
+      "selection_box": [
+        513,
+        196.024,
+        578,
+        251.284
+      ],
+      "vector_bounds": [
+        523.01878,
+        217.48704,
+        567.0563,
+        239.28816
+      ],
+      "sha256": "f64f26b6c4db40fbd68de9912899dd71e067d67690b5a8d4b1783377cb3a90e8"
+    },
+    {
+      "path": "assets/elements/material.svg",
+      "type": "Material",
+      "pdf_page": 11,
+      "selection_box": [
+        413,
+        253.284,
+        510,
+        305.683
+      ],
+      "vector_bounds": [
+        411.96086,
+        258.75706,
+        498.66899,
+        296.20976
+      ],
+      "sha256": "83bac0ae8a542080194151464d57c923db9b54cac4b5718b0cee1768c10c4bc4"
+    },
+    {
+      "path": "assets/symbols/material.svg",
+      "type": "Material",
+      "pdf_page": 11,
+      "selection_box": [
+        513,
+        253.284,
+        578,
+        305.683
+      ],
+      "vector_bounds": [
+        522.79909,
+        266.5392,
+        559.64922,
+        296.61617
+      ],
+      "sha256": "285f43adc5dc7e04dcf3d9f438edb23b2880e715a287e9553510393d76f78d27"
+    },
+    {
+      "path": "assets/elements/work-package.svg",
+      "type": "Work Package",
+      "pdf_page": 12,
+      "selection_box": [
+        413,
+        80.231,
+        510,
+        124.355
+      ],
+      "vector_bounds": [
+        416.11473,
+        82.40294,
+        508.57814,
+        122.18342
+      ],
+      "sha256": "8b35b4eebc53b6d4c5db72117fbc806f8224dd6ba89f60c778bc699ab3f418df"
+    },
+    {
+      "path": "assets/symbols/work-package.svg",
+      "type": "Work Package",
+      "pdf_page": 12,
+      "selection_box": [
+        513,
+        80.231,
+        578,
+        124.355
+      ],
+      "vector_bounds": [
+        525.20056,
+        91.83973,
+        560.41654,
+        123.15373
+      ],
+      "sha256": "8bd8d6c398fb418e3cc406d265c23ee4056d5d5b109fc965d5b9fd76a91ec4a0"
+    },
+    {
+      "path": "assets/elements/deliverable.svg",
+      "type": "Deliverable",
+      "pdf_page": 12,
+      "selection_box": [
+        413,
+        126.355,
+        510,
+        170.48
+      ],
+      "vector_bounds": [
+        415.76042,
+        128.52693,
+        508.22383,
+        168.30742
+      ],
+      "sha256": "4cde43d312769c516aaca9c154709f611c27310db3d97ca53e7c85ce023a11f8"
+    },
+    {
+      "path": "assets/symbols/deliverable.svg",
+      "type": "Deliverable",
+      "pdf_page": 12,
+      "selection_box": [
+        513,
+        126.355,
+        578,
+        170.48
+      ],
+      "vector_bounds": [
+        524.57533,
+        139.8317,
+        568.7163,
+        180.01771
+      ],
+      "sha256": "0ac155bb1f3a00dcce302c418b380d67201ce220dcdf841052a7783fe9444894"
+    },
+    {
+      "path": "assets/elements/implementation-event.svg",
+      "type": "Implementation Event",
+      "pdf_page": 12,
+      "selection_box": [
+        413,
+        172.48,
+        510,
+        221.566
+      ],
+      "vector_bounds": [
+        413.13818,
+        176.3588,
+        509.42884,
+        217.68729
+      ],
+      "sha256": "f8f863c57e0974b7d69fe1894049e2c2c900ded3f0972b7dbe1d5bc35f2336fb"
+    },
+    {
+      "path": "assets/symbols/implementation-event.svg",
+      "type": "Implementation Event",
+      "pdf_page": 12,
+      "selection_box": [
+        513,
+        172.48,
+        578,
+        221.566
+      ],
+      "vector_bounds": [
+        522.86745,
+        189.24123,
+        573.45524,
+        216.82272
+      ],
+      "sha256": "0b46c2c2c50ab19b9a9237ad73e6b6088ecf349f92720511afad67a20be2c86a"
+    },
+    {
+      "path": "assets/elements/plateau.svg",
+      "type": "Plateau",
+      "pdf_page": 12,
+      "selection_box": [
+        413,
+        223.566,
+        510,
+        270.307
+      ],
+      "vector_bounds": [
+        413.13808,
+        226.2729,
+        509.42875,
+        267.60139
+      ],
+      "sha256": "21c471b3d005c7701e5d041f87a39abfaac707509312a02c8bb82d2fc4c7b933"
+    },
+    {
+      "path": "assets/symbols/plateau.svg",
+      "type": "Plateau",
+      "pdf_page": 12,
+      "selection_box": [
+        513,
+        223.566,
+        578,
+        270.307
+      ],
+      "vector_bounds": [
+        523.2041,
+        240.82332,
+        561.5498,
+        266.50873
+      ],
+      "sha256": "2855bd49ce4575d0d4a97e0b01cd85709282e11fd4d6fec535b05b19e94c6637"
+    },
+    {
+      "path": "assets/elements/gap.svg",
+      "type": "Gap",
+      "pdf_page": 12,
+      "selection_box": [
+        413,
+        272.307,
+        510,
+        316.432
+      ],
+      "vector_bounds": [
+        413.13721,
+        273.84863,
+        508.72098,
+        314.89121
+      ],
+      "sha256": "b1d723df67fc78efbaba924c800be9587f87e8d0e72683ffbf6b97a082993c83"
+    },
+    {
+      "path": "assets/symbols/gap.svg",
+      "type": "Gap",
+      "pdf_page": 12,
+      "selection_box": [
+        513,
+        272.307,
+        578,
+        316.432
+      ],
+      "vector_bounds": [
+        520.81987,
+        285.03917,
+        561.09303,
+        311.41749
+      ],
+      "sha256": "5720105cf3aec1b4bdb3012053727951a10d413257bf21e09462d57fbfb4c8e0"
+    },
+    {
+      "path": "assets/elements/grouping.svg",
+      "type": "Grouping",
+      "pdf_page": 13,
+      "selection_box": [
+        413,
+        79.871,
+        510,
+        133.93
+      ],
+      "vector_bounds": [
+        413.13522,
+        86.71573,
+        507.05383,
+        127.08479
+      ],
+      "sha256": "167a3fb275bd7ff6c3ec5297ca4eecba1a7db616f89cc60a8214ea13af9971dd"
+    },
+    {
+      "path": "assets/symbols/grouping.svg",
+      "type": "Grouping",
+      "pdf_page": 13,
+      "selection_box": [
+        513,
+        79.871,
+        578,
+        133.93
+      ],
+      "vector_bounds": [
+        520.12249,
+        95.17152,
+        568.44447,
+        126.64052
+      ],
+      "sha256": "15df9e5a05a2f5db7882128bc7394ac0a39787f144117d2c6fbaf4a88d7c6495"
+    },
+    {
+      "path": "assets/elements/location.svg",
+      "type": "Location",
+      "pdf_page": 13,
+      "selection_box": [
+        413,
+        135.93,
+        510,
+        186.721
+      ],
+      "vector_bounds": [
+        413.12807,
+        142.29079,
+        501.36,
+        180.3598
+      ],
+      "sha256": "c1ecc67e847b55c82f76c910cd6dfbc285a9dc7ca7799dab925214a202865176"
+    },
+    {
+      "path": "assets/symbols/location.svg",
+      "type": "Location",
+      "pdf_page": 13,
+      "selection_box": [
+        513,
+        135.93,
+        578,
+        186.721
+      ],
+      "vector_bounds": [
+        522.14061,
+        150.03234,
+        544.22407,
+        178.15255
+      ],
+      "sha256": "fa46957e44ac64ffcdf3963769542f36e5c5078ebe5ea012a23368017f1a1ec0"
+    },
+    {
+      "path": "assets/relationships/composition.svg",
+      "type": "Composition",
+      "pdf_page": 2,
+      "selection_box": [
+        486,
+        76,
+        536,
+        88
+      ],
+      "vector_bounds": [
+        487.17019,
+        77.8416,
+        536.76355,
+        86.80721
+      ],
+      "sha256": "9fa8012154c9c06c3ff74683bd9541d5ef09905e787cc45bd35effbd30098fc1"
+    },
+    {
+      "path": "assets/relationships/aggregation.svg",
+      "type": "Aggregation",
+      "pdf_page": 2,
+      "selection_box": [
+        486,
+        94,
+        536,
+        105
+      ],
+      "vector_bounds": [
+        485.99658,
+        94.74101,
+        535.58991,
+        103.70662
+      ],
+      "sha256": "6f25ddc5e1c3317d44030104e82c5db2a2134614ab4e110f0638f6bf5662ff7b"
+    },
+    {
+      "path": "assets/relationships/assignment.svg",
+      "type": "Assignment",
+      "pdf_page": 2,
+      "selection_box": [
+        487,
+        115,
+        536,
+        127
+      ],
+      "vector_bounds": [
+        488.19462,
+        116.84887,
+        535.64043,
+        124.14673
+      ],
+      "sha256": "1d3b9c6574f08eba94b69bc6b0a66fc3367c281d34b6b80fc5e9af07a2b6ff2b"
+    },
+    {
+      "path": "assets/relationships/realization.svg",
+      "type": "Realization",
+      "pdf_page": 2,
+      "selection_box": [
+        487,
+        138,
+        536,
+        153
+      ],
+      "vector_bounds": [
+        487.46315,
+        139.56368,
+        535.71101,
+        150.58573
+      ],
+      "sha256": "931c86b2730381e05e2c98e4cb966f83e84f8064ac627d1246bf16605a380e29"
+    },
+    {
+      "path": "assets/relationships/serving.svg",
+      "type": "Serving",
+      "pdf_page": 2,
+      "selection_box": [
+        487,
+        178,
+        536,
+        189
+      ],
+      "vector_bounds": [
+        488.19299,
+        178.67901,
+        534.77616,
+        187.64402
+      ],
+      "sha256": "d53f8e5e674d5d2364df5e870bef53430294229809716992aff5035fef6bea54"
+    },
+    {
+      "path": "assets/relationships/access.svg",
+      "type": "Access",
+      "pdf_page": 2,
+      "selection_box": [
+        489,
+        201,
+        534,
+        207
+      ],
+      "vector_bounds": [
+        488.84829,
+        201.93461,
+        534.18531,
+        206.37261
+      ],
+      "sha256": "c77b5717ea63f916f3f799aa95555d27d4ec219aa49c0cfd4241a209580eedb8"
+    },
+    {
+      "path": "assets/relationships/access-write.svg",
+      "type": "Access Write",
+      "pdf_page": 2,
+      "selection_box": [
+        489,
+        207,
+        534,
+        213
+      ],
+      "vector_bounds": [
+        488.84829,
+        206.31661,
+        534.18531,
+        213.67562
+      ],
+      "sha256": "605f650c465cf0ea3f7776511436b2c2d71bed94c0396b45de573fef4b6d2a7b"
+    },
+    {
+      "path": "assets/relationships/access-read-write.svg",
+      "type": "Access Read Write",
+      "pdf_page": 2,
+      "selection_box": [
+        489,
+        213,
+        534,
+        221
+      ],
+      "vector_bounds": [
+        488.84829,
+        212.15942,
+        534.18531,
+        219.51882
+      ],
+      "sha256": "6ed98cf7754914abbec474fa8734bd85a4679883569978aeff4963a0ae267324"
+    },
+    {
+      "path": "assets/relationships/influence.svg",
+      "type": "Influence",
+      "pdf_page": 2,
+      "selection_box": [
+        486,
+        234,
+        535,
+        241
+      ],
+      "vector_bounds": [
+        484.81829,
+        233.48342,
+        536.03529,
+        241.32142
+      ],
+      "sha256": "f252391a2372ac6d898df4535c1bdeed1546205c4fa4d28b5d5504bce45a930c"
+    },
+    {
+      "path": "assets/relationships/association.svg",
+      "type": "Association",
+      "pdf_page": 2,
+      "selection_box": [
+        489,
+        256,
+        534,
+        261
+      ],
+      "vector_bounds": [
+        488.21895,
+        256.61437,
+        534.18901,
+        261.05928
+      ],
+      "sha256": "7c89b55f7494f3903f1efd05e00b78c786a3e70d541381f14a0723dca2d609c6"
+    },
+    {
+      "path": "assets/relationships/association-directed.svg",
+      "type": "Association Directed",
+      "pdf_page": 2,
+      "selection_box": [
+        489,
+        261,
+        534,
+        268
+      ],
+      "vector_bounds": [
+        488.21895,
+        260.59157,
+        534.18901,
+        269.08122
+      ],
+      "sha256": "cdd22405e85c8f5e5b6af39f8454d0626503d72a719c4962b47a60695d7beaa6",
+      "correction": "Restored the source lower arrow stroke from zero opacity to form a complete open arrow."
+    },
+    {
+      "path": "assets/relationships/triggering.svg",
+      "type": "Triggering",
+      "pdf_page": 2,
+      "selection_box": [
+        487,
+        294,
+        535,
+        304
+      ],
+      "vector_bounds": [
+        487.33593,
+        295.37282,
+        534.74516,
+        302.9008
+      ],
+      "sha256": "c7ff0117d8a60d9f888b2d1e022b935d352725dee8902873eae5f796de42202b"
+    },
+    {
+      "path": "assets/relationships/flow.svg",
+      "type": "Flow",
+      "pdf_page": 2,
+      "selection_box": [
+        486,
+        312,
+        534,
+        323
+      ],
+      "vector_bounds": [
+        485.75652,
+        313.46633,
+        533.16569,
+        320.9943
+      ],
+      "sha256": "a02af220d12ffa9ac46b110e7b1da31e30d329575a58dc4b116de865cc9b64c7"
+    },
+    {
+      "path": "assets/relationships/specialization.svg",
+      "type": "Specialization",
+      "pdf_page": 2,
+      "selection_box": [
+        489,
+        341,
+        535,
+        355
+      ],
+      "vector_bounds": [
+        488.91405,
+        342.88134,
+        534.24128,
+        353.90339
+      ],
+      "sha256": "f356f87b8ce6c82dde5f9389a533889bba5f8a5062aea76121c2aede5e6db010"
+    },
+    {
+      "path": "assets/relationships/and-junction.svg",
+      "type": "And Junction",
+      "pdf_page": 2,
+      "selection_box": [
+        477,
+        371,
+        489,
+        383
+      ],
+      "vector_bounds": [
+        477.1713,
+        371.63657,
+        488.07846,
+        382.33102
+      ],
+      "sha256": "b77bbe42e95277c868c9b42bb8acf1da4aaf558ff62e35ceb394aa74968f5bf3"
+    },
+    {
+      "path": "assets/relationships/or-junction.svg",
+      "type": "Or Junction",
+      "pdf_page": 2,
+      "selection_box": [
+        535,
+        371,
+        547,
+        383
+      ],
+      "vector_bounds": [
+        535.19629,
+        371.42289,
+        546.10345,
+        382.1166
+      ],
+      "sha256": "c10bbde9a04598d438820e57aa4aab3081b16a27531460232c54110f71d27410"
+    },
+    {
+      "path": "assets/relationships/access-read.svg",
+      "type": "Access Read",
+      "pdf_page": 2,
+      "derived_from": "assets/relationships/access-write.svg",
+      "transformation": "horizontal mirror",
+      "sha256": "953908a89cabba2c2830547a83c32d4b820a78ea576c3ddf7f45dd45b2877bd0"
+    }
+  ]
+}

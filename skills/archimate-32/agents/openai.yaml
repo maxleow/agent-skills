@@ -1,0 +1,4 @@
+interface:
+  display_name: "ArchiMate 3.2"
+  short_description: "Model ArchiMate with clear layouts and exact symbols"
+  default_prompt: "Use $archimate-32 to create or review an ArchiMate 3.2 model with clear element types, relationship directions, and diagram design."
