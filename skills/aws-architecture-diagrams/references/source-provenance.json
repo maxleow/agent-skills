@@ -1,0 +1,31 @@
+{
+  "release": "24-2026.07.31",
+  "source_deck_sha256": "16273c6aedae337665fade3b92c4eab2765ccf2da1ab377f29aa2b55f241d653",
+  "source_deck": "assets/source/AWS-Architecture-Icons-Deck_For-Light-BG_07312026.pptx",
+  "source_slides": [
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    20,
+    21,
+    25,
+    26,
+    27,
+    147
+  ],
+  "asset_source": "User-supplied AWS icon directories, with slide-25 group artwork extracted unmodified.",
+  "copyright": "2026, Amazon Web Services, Inc. or its affiliates. Official artwork remains AWS artwork.",
+  "counts": {
+    "service": 1220,
+    "resource": 419,
+    "general": 94,
+    "group": 31,
+    "category": 104
+  },
+  "notices": "Source slide 5 permits customers and partners to use icons in architecture diagrams and technical materials. This package does not confer ownership of AWS artwork."
+}

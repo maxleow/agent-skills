@@ -1,0 +1,4 @@
+interface:
+  display_name: "AWS Architecture Diagrams"
+  short_description: "Draw AWS diagrams with official light-theme icons"
+  default_prompt: "Use $aws-architecture-diagrams to draw a light-theme AWS architecture diagram from my requirements."
