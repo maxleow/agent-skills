@@ -7,6 +7,9 @@ Do not substitute a short arrow key for a complete legend.
 
 Show a sample beside each explanation. Reuse the actual element assets, colors, line patterns,
 and endpoint markers. Keep legend samples separate from model elements and relationships.
+Keep a readable element-type caption, such as “Artifact,” inside the top-left corner of each
+model box and element sample when this label convention is used. Reserve space for it beside
+the corner symbol and above the element name. The complete legend supplements these captions.
 For nested membership, show a boundary sample and explain the retained Aggregation relationship.
 Explain crossing gaps and whether a crossing is a connection.
 
