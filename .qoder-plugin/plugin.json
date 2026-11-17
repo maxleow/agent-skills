@@ -1,0 +1,13 @@
+{
+  "name": "architecture-diagrams",
+  "version": "1.0.0",
+  "description": "Create AWS architecture diagrams and ArchiMate 3.2 models with bundled official assets, design guidance, and editable output references.",
+  "displayName": "Architecture Diagrams",
+  "author": { "name": "Max Engiu Leow" },
+  "keywords": ["aws", "archimate", "architecture", "diagrams", "svg"],
+  "skills": [
+    "./skills/aws-architecture-diagrams",
+    "./skills/archimate-32"
+  ],
+  "license": "MIT"
+}
