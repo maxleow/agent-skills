@@ -4,6 +4,8 @@
   "description": "Create AWS architecture diagrams and ArchiMate 3.2 models with bundled official assets, design guidance, and editable output references.",
   "displayName": "Architecture Diagrams",
   "author": { "name": "Max Engiu Leow" },
+  "homepage": "https://github.com/maxleow/agent-skills",
+  "repository": "https://github.com/maxleow/agent-skills",
   "keywords": ["aws", "archimate", "architecture", "diagrams", "svg"],
   "skills": [
     "./skills/aws-architecture-diagrams",

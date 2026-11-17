@@ -1,0 +1,17 @@
+{
+  "name": "agent-skills",
+  "owner": { "name": "Max Engiu Leow" },
+  "metadata": {
+    "version": "1.0.0",
+    "description": "Architecture diagram skills: AWS architecture diagrams and ArchiMate 3.2 modeling."
+  },
+  "plugins": [
+    {
+      "name": "architecture-diagrams",
+      "source": "./",
+      "category": "architecture",
+      "tags": ["aws", "archimate", "diagrams", "svg"],
+      "strict": true
+    }
+  ]
+}
